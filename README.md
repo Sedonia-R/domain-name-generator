@@ -1,1 +1,1 @@
-This project illustrates the use of nested loops to generate a set of domain names using all possible combination of names from three arrays.
+This project illustrates the use of nested loops to generate a set of domain names using all possible combination of names from three arrays. Note that the chicken loop is an example of doing the same from a single array.
