@@ -1,0 +1,1 @@
+This project illustrates the use of nested loops to generate a set of domain names using all possible combination of names from three arrays.
